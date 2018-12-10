@@ -1,7 +1,7 @@
 # Creating CSS3 Navigation Toolbars
 
 ### What does it do?
-##### It creates a CSS navigation list or button toolbar. 
+##### It creates a CSS toolbar that creates a drop down list for website navigation. 
 
 ### Projects purpose:
 ##### To create a pure CSS menu with list items.
@@ -10,4 +10,4 @@
 ##### HTML5 and CSS3.
 
 ### Description of the task completed in this demonstration:
-##### The navigation toolbar when hovered, activates by dropping down smoothly list items.
+##### When the navigation toolbar button is hovered over by the users cursor, it activates a drop down list (smooth).
